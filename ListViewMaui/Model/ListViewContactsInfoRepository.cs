@@ -63,11 +63,11 @@ namespace ListViewMaui
         };
         readonly string[] contactType = new string[]
         {
-            "HOME",
-            "WORK",
-            "MOBILE",
-            "OTHER",
-            "BUSINESS"
+            "Home",
+            "Work",
+            "Mobile",
+            "Other",
+            "Business"
         };
         readonly string[] CustomerNames_Girls = new string[]
         {
@@ -83,16 +83,16 @@ namespace ListViewMaui
             "Katie",
             "Vince",
             "Fiona",
-            "Liam   ",
+            "Liam",
             "Georgia",
             "Elijah ",
             "Alivia",
-            "Evan   ",
+            "Evan",
             "Ariel",
             "Vanessa",
             "Gabriel",
             "Angelina",
-            "Eli    ",
+            "Eli",
             "Remi",
             "Levi",
             "Alina",
@@ -185,19 +185,19 @@ namespace ListViewMaui
             "Aiden",
             "Jackson",
             "Mason",
-            "Jacob  ",
-            "Jayden ",
-            "Ethan  ",
-            "Noah   ",
-            "Lucas  ",
+            "Jacob",
+            "Jayden",
+            "Ethan",
+            "Noah",
+            "Lucas",
             "Brayden",
-            "Logan  ",
-            "Caleb  ",
-            "Caden  ",
+            "Logan",
+            "Caleb",
+            "Caden",
             "Benjamin",
             "Xaviour",
-            "Ryan   ",
-            "Connor ",
+            "Ryan",
+            "Connor",
             "Michael",
         };
         #endregion
