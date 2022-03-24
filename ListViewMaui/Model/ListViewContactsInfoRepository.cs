@@ -163,7 +163,7 @@ namespace ListViewMaui
             "Laura",
             "Gracelynn",
             "Heidi",
-            "Kenzie",
+            "Kenny",
         };
         readonly string[] CustomerNames_Boys = new string[]
         {
