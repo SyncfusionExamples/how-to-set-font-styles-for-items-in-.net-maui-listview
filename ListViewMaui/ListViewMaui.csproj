@@ -110,10 +110,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="Syncfusion.Maui.Core" Version="19.4.1.95" />
-	  <PackageReference Include="Syncfusion.Maui.DataSource" Version="19.4.1.7" />
-	  <PackageReference Include="Syncfusion.Maui.GridCommon" Version="19.4.1.4" />
-	  <PackageReference Include="Syncfusion.Maui.ListView" Version="19.4.1.51" />
+	  <PackageReference Include="Syncfusion.Maui.ListView" Version="20.1.47-preview" />
 	</ItemGroup>
 
 	<PropertyGroup Condition="$(TargetFramework.Contains('-windows'))">
